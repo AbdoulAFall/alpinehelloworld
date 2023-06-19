@@ -1,1 +1,2 @@
-[![Build Status](http://192.168.99.10:8080/buildStatus/icon?job=alpinehelloworld)](http://192.168.99.10:8080/job/alpinehelloworld/)
+
+[![Build Status](http://d942-176-169-128-14.ngrok-free.app/buildStatus/icon?job=alpinehelloworld)](http://d942-176-169-128-14.ngrok-free.app/job/alpinehelloworld/)
